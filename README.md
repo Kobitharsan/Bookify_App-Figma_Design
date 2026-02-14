@@ -49,9 +49,9 @@ Mobile Application Development in Figma
 ## 🛠️ Built With
 
 - Figma for Design
-- [Add your tech stack here]
 
 ## 📞 Contact
 
 - GitHub: [@Kobitharsan](https://github.com/Kobitharsan)
 - Project Link: [https://github.com/Kobitharsan/Bookify_App-Figma_Design](https://github.com/Kobitharsan/Bookify_App-Figma_Design)
+
